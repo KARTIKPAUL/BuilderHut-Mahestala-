@@ -3,7 +3,7 @@ import {
   FaPhoneAlt,
   FaMapMarkerAlt,
   FaEnvelope,
-  FaInstagram,
+
   
   FaFacebook,
 
