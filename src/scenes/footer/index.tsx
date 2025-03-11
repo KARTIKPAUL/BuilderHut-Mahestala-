@@ -77,8 +77,8 @@ const Footer = () => {
               </div>
               <div>
                 
-                <a href="mailto:thefitboxalipurduar@gmail.com" className="text-lg text-white hover:text-orange-400 transition-colors"> <span className="font-medium text-orange-500">Email: </span>
-                thefitboxalipurduar@gmail.com
+                <a href="mailto:abuilderhut22@gmail.com" className="text-lg text-white hover:text-orange-400 transition-colors"> <span className="font-medium text-orange-500">Email: </span>
+                abuilderhut22@gmail.com
                 </a>
               </div>
             </li>
@@ -89,16 +89,17 @@ const Footer = () => {
               <div>
                 
                 <p className="text-lg text-white leading-relaxed"> <span className="font-medium text-orange-500">Address: </span>
-                Near Madhab More, New Town, Alipurduar, India -736121
+                budge budge trunk road, Kolkata, India, West Bengal
                 </p>
               </div>
             </li>
             <li className="mt-4">
 
           
+            
            
               <iframe 
-                src= "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3717900.044009461!2d86.34256698130696!3d24.49371014954138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e257451b04cba3%3A0xcc33f563ce8e952a!2sMadhab%20more!5e0!3m2!1sen!2sin!4v1740815450096!5m2!1sen!2sin"
+                src= "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3686.3509657213453!2d88.2070474752981!3d22.491011579549838!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027c4a43e54ebf%3A0x29d23e9002146df4!2sBudge%20Budge%20Trunk%20Rd%2C%20West%20Bengal!5e0!3m2!1sen!2sin!4v1741690274600!5m2!1sen!2sin"
                 className="w-full h-48 rounded-xl border-2 border-gray-700 shadow-lg hover:shadow-xl transition-shadow"
                 allowFullScreen
                 loading="lazy"
@@ -112,7 +113,7 @@ const Footer = () => {
       <div className="w-full max-w-7xl border-t border-gray-800"></div>
       
       <p className="text-center text-white text-sm">
-      Copyright © 2025 TheFitBox Fitness Gym - All Rights Reserved | A TheFitBox Company!. Crafted with ❤️ in India
+      Copyright © 2025 A Builder Hut Box Fitness Gym - All Rights Reserved | A A Builder Hut Box Company!. Crafted with ❤️ in India
       </p>
     </div>
     </>

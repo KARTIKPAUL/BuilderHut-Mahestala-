@@ -4,20 +4,20 @@ import "slick-carousel/slick/slick-theme.css";
 
 const testimonials = [
   {
-    name: "Sraya Kar",
-    feedback: "2 years ago Hands down, best choice I’ve made training at THE FIT BOX. VERY friendly team who make me actually want to go train. I look forward to walking through the doors and always feel amazing when I leave.This is a fantastic gym. I really like the ambience and the environment. ✨❤",
+    name: "Sanjana Pal",
+    feedback: "Best gym in our area and an excellent atmosphere and highly skilled trainers. The environment is clean, welcoming, and motivating, making every workout enjoyable. The trainers are knowledgeable and attentive, providing personalized guidance that really helps achieve fitness goals. Overall, it’s a great place to work out and stay fit.😊😊😊",
     image: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=600",
     rating: 5,
   },
   {
-    name: "Upama Biswas",
-    feedback: "Seriously best gym in town..... Quality of the instruments are too good..... Very polite behaviour....... The best thing about this gym is it's location.",
+    name: "Ainesh Banerjee",
+    feedback: "This gym is a fantastic find .The trainer are incredibly friendly and knowledgeable always ready to offer guidance and support ,no matter your fitness level .The equipment is top notch,well maintained and offers a wide variety of all type workout .The atmosphere is positive and motivating ..",
     image: "https://images.pexels.com/photos/4475024/pexels-photo-4475024.jpeg?auto=compress&cs=tinysrgb&w=600",
     rating: 4,
   },
   {
-    name: "Jagannath Das",
-    feedback: "Looking forward to a fit start this new year, you are at the right place, to make a kick start.100% recommend.",
+    name: "Supratik Mondal",
+    feedback: "Probably the best budget gym (if not the best) out there in Maheshtala+Budge Budge.. They offer premium experience at a reasonable cost with decent area for workout, helpful trainers, almost everything you can ask for. A positive environment, people support each other... Been working out since May, and I've had a good experience.",
     image: "https://images.pexels.com/photos/6260921/pexels-photo-6260921.jpeg?auto=compress&cs=tinysrgb&w=600",
     
     rating: 4,

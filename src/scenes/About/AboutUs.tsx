@@ -13,10 +13,10 @@ const AboutUs = () => {
             transition={{ duration: 1 }}
           >
             <h1 className="text-4xl md:text-5xl font-bold mb-6 text-yellow-400 drop-shadow-lg">
-              About TheFitBox Fitness Gym
+              About A Builder Hut  Fitness Gym
             </h1>
             <p className="text-lg mb-8 max-w-2xl mx-auto text-gray-300">
-              Welcome to TheFitBox Fitness Gym – The Premier Fitness Destination in Alipurduar! We offer a 
+              Welcome to A Builder Hut  Fitness Gym – The Premier Fitness Destination in Mahestala! We offer a 
               fully air-conditioned, comfortable environment for all. Join our community and achieve 
               your fitness goals with us!
             </p>
@@ -67,9 +67,10 @@ const AboutUs = () => {
           >
             <h2 className="text-3xl font-bold mb-6 text-yellow-400">Find Us</h2>
             <div className="space-y-4 text-lg text-gray-300">
-              <p><MapPin className="inline mr-2" /> Near Madhab More, New Town, Alipurduar, India -736121</p>
-              <p><Phone className="inline mr-2" />  099077 30482</p>
-              <p><Mail className="inline mr-2" /> thefitboxalipurduar@gmail.com</p>
+              <p><MapPin className="inline mr-2" /> budge budge trunk road, Kolkata, India, West Bengal</p>
+              <p><Phone className="inline mr-2" />  
+              082769 03867</p>
+              <p><Mail className="inline mr-2" /> abuilderhut22@gmail.com</p>
             </div>
           </motion.div>
 

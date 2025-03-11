@@ -49,7 +49,7 @@ function App() {
           <Route path="/memberships" element={<Membership />} />
           <Route path="/workout-zumba" element={<ZumbaPage />} />
           <Route path="/workout-yoga" element={<YogaPage />} />
-          <Route path="/workout-suana" element={<Sauna />} />
+          <Route path="/workout-sauna" element={<Sauna />} />
           
         </Route>
       </Routes>

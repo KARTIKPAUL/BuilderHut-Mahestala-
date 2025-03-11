@@ -56,7 +56,7 @@ const Navbar = ({ isTopOfPage, setSelectedPage }: Props) => {
                   />
                 </div>
                 <div className={`${flexBetween} gap-8`}>
-                  <Link to="/signin" className="hover:text-primary-500 transition duration-300">Sign In</Link>
+                  <Link to="/" className="hover:text-primary-500 transition duration-300">Sign In</Link>
                   <ActionButton setSelectedPage={setSelectedPage}>Become a Member</ActionButton>
                 </div>
               </div>
@@ -152,7 +152,7 @@ const Navbar = ({ isTopOfPage, setSelectedPage }: Props) => {
 
               <div className="flex flex-col gap-6">
                 <Link
-                  to="/signin"
+                  to="/"
                   onClick={handleMobileLinkClick}
                   className="text-center text-2xl hover:text-primary-500 transition duration-300"
                 >
